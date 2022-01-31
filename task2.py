@@ -18,6 +18,4 @@ print(json.dumps(r,indent=2))
 key = input("Enter Key: ")
 get_value(r,key)
 
-http://169.254.169.254/latest/meta-data/
-
 #For testing the request can be replaced with ("http://headers.jsontest.com")
